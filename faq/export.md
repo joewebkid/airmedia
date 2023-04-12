@@ -8,3 +8,5 @@ id указывается либо при создании нового рабо
 ![](../.gitbook/assets/image.png)
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+На текущий момент выгрузкой в каналы занимается телеграм бот **`@ai2media_bot`**. Его необходимо добавить в&#x20;

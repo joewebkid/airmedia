@@ -4,6 +4,7 @@
 
 * [1. Рабочее пространство](README.md)
 * [2. Экспорт данных](faq/export.md)
+* [3. Пользовательские источник](faq/3.-polzovatelskie-istochnik.md)
 
 ## Api
 
