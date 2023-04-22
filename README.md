@@ -12,6 +12,8 @@ description: Создание, редактирование, оплата
 
 ![](<.gitbook/assets/image (4).png>)
 
+{% file src=".gitbook/assets/screencast-crypto.ai2media.ru-2023.02.10-16_41_19.mp4" %}
+
 ### 1.2. Редактирование рабочего пространства
 
 Внутри рабочего пространства несколько карточек, каждая отвечает за определенную группу информации.&#x20;
@@ -31,4 +33,4 @@ description: Создание, редактирование, оплата
 
 Для добавления нового источника необходимо нажать на плюс в карточке 2. "Источники"
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
