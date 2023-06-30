@@ -25,12 +25,12 @@ description: Создание, редактирование, оплата
 5. "Видео" - выдача поиска по медиа-видео источникам.
 6. "Новости" - собранные новости по запросу.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Для редактирования рабочего пространства необходимо выбрать пункт настройки.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Для добавления нового источника необходимо нажать на плюс в карточке 2. "Источники"
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
