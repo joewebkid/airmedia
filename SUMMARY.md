@@ -4,7 +4,7 @@
 
 * [1. Рабочее пространство](README.md)
 * [2. Экспорт данных](faq/export/README.md)
-  * [4. Экспорт в телеграм](faq/export/4.-eksport-v-telegram.md)
+  * [2.1. Экспорт в телеграм](faq/export/2.1.-eksport-v-telegram.md)
 * [3. Пользовательские источники](faq/3.-polzovatelskie-istochniki.md)
 
 ## Api

@@ -10,7 +10,7 @@ description: Создание, редактирование, оплата
 
 Чтобы создать рабочее пространство необходимо выбрать поисковое слово и тему поиска. И настроить источники экспорта по необходимости.&#x20;
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 {% file src=".gitbook/assets/screencast-crypto.ai2media.ru-2023.02.10-16_41_19.mp4" %}
 
@@ -25,12 +25,12 @@ description: Создание, редактирование, оплата
 5. "Видео" - выдача поиска по медиа-видео источникам.
 6. "Новости" - собранные новости по запросу.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Для редактирования рабочего пространства необходимо выбрать пункт настройки.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Для добавления нового источника необходимо нажать на плюс в карточке 2. "Источники"
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
