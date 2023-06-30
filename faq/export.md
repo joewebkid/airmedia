@@ -5,8 +5,8 @@
 Чтобы настроить экспорт в телеграм канал необходимо узнать id канала. Для его получения нужно отправить сообщение от канала на бот [https://t.me/username\_to\_id\_bot](https://t.me/username\_to\_id\_bot)
 
 id указывается либо при создании нового рабочего пространства, либо при редактировании настроек\
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 На текущий момент выгрузкой в каналы занимается телеграм бот **`@ai2media_bot`**. Его необходимо добавить в&#x20;
