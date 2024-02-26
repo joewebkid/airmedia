@@ -1,7 +1,7 @@
 # 1. Первые шаги
 
-1. Выполняем добавление нового токена по этой инструкции
+1. Выполняем добавление нового токена в разделе сайта [https://ai2media.ru/members/](https://ai2media.ru/members/) вкладка "Api" нажатием на кнопку \[1]
 
-{% embed url="https://ai2media.gitbook.io/1.-rukovodstvo-polzovatelya/faq/export/2.2-ekcport-na-sait-wordpress" %}
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-2. Подключаемся через ai2media/api?token=<Ваш токен>
+2. После перезагрузки страницы, при успешной генерации в поле токенов \[2] видим наш новый токен.
