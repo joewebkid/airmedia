@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Page 1](README.md)
+
 ## Руководство пользователя <a href="#faq" id="faq"></a>
 
-* [1. Рабочее пространство](README.md)
+* [1. Рабочее пространство](<README (1).md>)
 * [2. Экспорт данных](faq/export/README.md)
   * [2.1. Экспорт в телеграм](faq/export/2.1.-eksport-v-telegram.md)
   * [2.2 Экcпорт на сайт Wordpress](faq/export/2.2-ekcport-na-sait-wordpress.md)
