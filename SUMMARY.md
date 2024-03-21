@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Как начать работу с сервисом](README.md)
 
 ## Руководство пользователя <a href="#faq" id="faq"></a>
 
