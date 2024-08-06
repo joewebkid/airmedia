@@ -1,48 +1,69 @@
 # Как начать работу с сервисом
 
-**Шаг 1:**\
+**Шаг 1: Добавление аккаунтов**
+
+Чтобы добавить собственные группы/каналы из телеграм необходимо перейти в раздел "Каналы" и нажать на кнопку "Обновить", также если 
+Вы делаете это впервые, нужно привязать свой телеграм аккаунт.
 \
-Добавьте бота @ai2media\_grabber в ваш канал, дайте права и добавьте канал в список.\
-(скопруйте адрес канала, вставьте в поле ТГ name и нажмите сохранить)
-
-<figure><img src="https://lh7-us.googleusercontent.com/93SpGg72PQUzRcUfjLb9BncTMbwn_fzGGlSE_AIQkVBJd2KmcLxxKuSYNw10jIAV2CquSsGYKZ4w9KYg-iygVCJT2-n2PWVmyjrrrVgeiflK0Bj3J0eJAX0dejKxUdVpxIS4XJ-Oh3bD977Xi_l94Z4" alt=""><figcaption></figcaption></figure>
-
-**Шаг 2: Перейдите во вкладку “Рабочие пространства” и заполните данные нового рабочего пространства**\
 \
-1\) поисковое слово по которому будет поиск в соцсетях, ютубе и новостях\
-2\) аккаунт для экспорта - выберите ваш канал в списке\
-3\) Выберите “Темы/категории поиска” из списка\
-4\) Нажмите “Создать”
+В дальнейшем для актуализации данных привязанных каналов/групп 
+нужно нажимать ту же кнопку "Обновить".
 
-<figure><img src="https://lh7-us.googleusercontent.com/F_zKv1bY-wwXbB13ZJ_B1ti51GtsiCC1wqfRXYjbiKFXm0-w0frG7qUHhQyMC7QpDLfKSvrX4QxFB3v_mEDU7aq9OwjPenzqVv06x8_PTxRDx0LD1lhy_nhT39BDXm282_mI3rTVpUMr75t3Od81VuU" alt=""><figcaption></figcaption></figure>
+<figure><img src=https://i.ibb.co/wRTJ44v/2024-08-06-07-31-00-PM.png" alt=""><figcaption></figcaption></figure>
 
-**Шаг 3: Выберите “Источник” из списка**
+**Шаг 2: Создание рабочего пространства**
 
-<figure><img src="https://lh7-us.googleusercontent.com/Mup-RZVXO7jBkCweREuK5l1KnpXt3o7W1A1gqM7yVwmU_5Uh8TV8kfunv9NSmacAXdrD--RjvsBTYKAzDCbzOzkY1sLRVXu5D2e7YtWENLwXLAsTjEvDNk_CH2qxFjAkwJE8v0-8vqEk5gFPPPey3Fk" alt=""><figcaption></figcaption></figure>
+Чтобы создать рабочее пространство переходим в раздел "Рабочие пространства" и заполняем форму "Новое рабочее пространство":
 
-**Шаг 4: Выберите новость из интересущего вас источника, и выбеоите пункт “Изменить и отправить"**
+1) Поле "Поисковое слово" - слово, по которому будет происходить поиск подходящих новостей
+2) Поле "Привязанные каналы" - группы/каналы, в которые Вы планируете выкладывать посты в данном пространстве
+3) Поле "Темы/Категории поиска" - категории, по которым также будет производиться поиск некоторых новостей
 
-<figure><img src="https://lh7-us.googleusercontent.com/D_po_s_i26O9IIyUZ_zkW9mN3ax-NW6ncsv3l0OYkSaxMNY-JkY1VIZhp185OU8WhOaUia21gdQyrYsWIK0v8jZEAj8oeoQvioiDzLEh-7qr9kHPGsOS8sqvpu9zkOrIRxfxAkI15EAOrZyemjcbwwI" alt=""><figcaption></figcaption></figure>
+Далее жмем на кнопку "Создать".
 
-**Шаг 5: Обработайте новость нейросетями**
+<figure><img src="https://i.ibb.co/jJ8rLhG/2024-08-06-07-33-20-PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/5lWV1bWpU5mZ1aQ9nZEWPNgy8ALrwJEkZ9SYx4PY8sYL4hTIurcmhEb7dDwY_xl6SBzM-veD_w4JT44JAuHJ7D37qLdhvob2oVBz0JRI940D0uWiVyLdz83RxTxxiMlCMx12ez-Rm7XSW7bOvyN_yZw" alt=""><figcaption></figcaption></figure>
+**Шаг 3: Переход в редактор поста**
 
-Сгенерируйте изображение
-
-<figure><img src="https://lh7-us.googleusercontent.com/HTBQjh878WfcS4rCsDgh5qOy6hanIgc2zmx_QM-ZWKyDq9PK2Vrb8wCkOnOXXG_Hzkw8YKszQGfqnv8MlwDAwDoDUVB1PxepVDNRzfmQeIJ2mdVwGIS88xPl2JL31fKCAx5st6ZfNGYsuZXdxYzEYXg" alt=""><figcaption></figcaption></figure>
-
-Переведите, сделайте рерайт текста если требуется
-
-<figure><img src="https://lh7-us.googleusercontent.com/TYN0oaT4udn5aR9xnYfGWr5uKMCYYTrCRUIpXDgDnCTz1BvtMnENNBODBhOyzRM9KxZ5GiEUhGMppAYx51e9XUvZwf7rNV3kn-5FyhxKbrqHZJiq7f0iLrrvYIxpyRn0pTx3lpU_IB3Eig57xmjFSg0" alt=""><figcaption></figcaption></figure>
-
-Скопруйте и вставьте текст в поле, добавьте ваши данные, если требуется\
+После получения данных из различных источников по поисковому слову и категориям выбираем наиболее интересный пост
+и нажимаем рядом на "Три точки". 
 \
-**Шаг 6: отправка в телеграмм**\
-
-
-<figure><img src="https://lh7-us.googleusercontent.com/Vhd6s0rPWM8LurA7Jh6-66w3Qpp07DH_cc4FF053LTy62RNaF3wGMt5BGnwzr5aYYbScBOWXiZZvFYwrwiShOaUI8_Gg_jcYqUFArohfT-2m3sytDCLGg49InC2lvLXJ-7718vOt-ox9hPby-3hamGw" alt=""><figcaption></figcaption></figure>
-
-Проверьте, как будет выглядеть ваш пост, и если все хорошо - отправляйте в ваше сообщество.
-
 \
+В выпадающем списке можем перейти и изучить оригинал новости, а также ее отредактировать.
+Нажимаем "Изменить и отправить".
+
+<figure><img src="https://i.ibb.co/4ZZWqyc/2024-08-06-06-54-51-PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Шаг 4: Редактирование поста: Изображение**
+
+В редакторе поста можно:
+1) Редактировать изображение во встроенном редакторе
+2) Вставить ссылку на любое изображение, взятое из интернета
+3) Сгенерировать новое изображение по текстовому запросу (только на английском языке)
+4) Загрузить собственное изображение с Вашего устройства
+
+
+<figure><img src="https://i.ibb.co/kyMXJj6/2024-08-06-07-04-11-PM.png" alt=""><figcaption></figcaption></figure>
+
+**Шаг 5: Редактирование поста: Текст**
+
+В редакторе поста можно:
+1) Написать собственный текст к посту
+2) Отредактировать существующий текст
+3) Перевести текст на любой язык из доступных
+4) Произвести рерайт текста (Искусственный интеллект перепишет существующий текст, сделает его уникальным и удобным для прочтения)
+
+<figure><img src="https://i.ibb.co/ZW2qpWw/2024-08-06-07-12-58-PM.png" alt=""><figcaption></figcaption></figure>
+
+**Шаг 6: Отправка в телеграм**
+
+Чтобы отправить пост в телеграм нужно:
+1) Если Вы указали несколько привязанных каналов при создании пространства, то нужно выбрать целевой канал, нажав на стрелочку рядом с названием канала
+2) Если необходимо, то выбрать дату отправки поста, нажав на кнопку календаря
+3) Если потребуется, то проверить внешний вид поста
+4) Нажать на кнопку "Отправить в телеграм"
+
+После нажатия на кнопку данный пост будет успешно отправлен в Ваш канал.
+<figure><img src="https://i.ibb.co/5Fy2Zgs/2024-08-06-07-28-46-PM.png" alt=""><figcaption></figcaption></figure>
